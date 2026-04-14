@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sonu-dev00/sonu-dev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development and cyber security
 - 🌱 I’m currently learning web dev , cyber security and python
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dexterthebatman00@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I love coding and learning new stuffs
--->
+
