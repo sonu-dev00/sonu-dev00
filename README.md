@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on web development and cyber security
-- 🌱 I’m currently learning web dev , cyber security and python
-- 👯 I’m looking to collaborate on web dev projects
-- 🤔 I’m looking for help with cyber security
-- 💬 Ask me about tech stuffs
+- 🔭 I’m currently working on my skills
+- 🌱 I’m currently learning web development , cyber security and coding 
+- 👯 I’m looking to collaborate startup or any web dev projects
 - 📫 How to reach me: dexterthebatman00@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding and learning new stuffs
 
